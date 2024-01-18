@@ -1,7 +1,7 @@
 
 # Sentiment Analysis on the Instagram Application 
 
-<p align="center"><a href="/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" width="400"></a></p>
+<p align="center"><a href="/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" width="200"></a></p>
 
 
 ## Overview
