@@ -10,7 +10,7 @@ The dataset on this project comes from Kaggle.
     
     https://www.kaggle.com/code/ankumagawa/sentimental-analysis-using-naive-bayes-classifier
 
-## Run Code Step
+## Steps to run the code
 - Download dataset from the link above.
 - Clone this repository. 
 - Create a directory called *dataset*.
