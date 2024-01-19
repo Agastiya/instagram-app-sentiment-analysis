@@ -15,7 +15,7 @@
 The aim of this project is to analyze sentiment regarding the use of the Instagram  application to understand people's views and responses. This sentiment analysis process uses machine learning techniques which are carried out using a set of datasets. This project is designed to classify Instagram-related public comments into two categories, namely positive and negative sentiment.
 
 ## Data Source
-The dataset on this project comes from Kaggle.
+This project uses a dataset sourced from the kaggle.com site, where the dataset contains user data, ratings and comments on Instagram application from Google Playstore. Initial data used in this project amounting to around 3,080,209 data
     
     https://www.kaggle.com/datasets/bwandowando/3-million-instagram-google-store-reviews
 
