@@ -11,11 +11,11 @@ The dataset on this project comes from Kaggle.
     https://www.kaggle.com/code/ankumagawa/sentimental-analysis-using-naive-bayes-classifier
 
 ## Run Code Step
-    - Download dataset from the link above.
-    - Clone this repository.
-    - Create a directory called dataset.
-    - Extract dataset from download and put the <b>INSTAGRAM_REVIEWS.csv</b> into the directory.
-    - Run the code step by step.
+- Download dataset from the link above.
+- Clone this repository. 
+- Create a directory called *dataset*.
+- Extract dataset from download and put the **INSTAGRAM_REVIEWS.csv** into the directory.
+- Run the code step by step.
 
 If you want to get the entire dataset, you can download it from the link below.
 
