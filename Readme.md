@@ -19,7 +19,7 @@ This project uses a dataset sourced from the kaggle.com site, where the dataset 
     
     https://www.kaggle.com/datasets/bwandowando/3-million-instagram-google-store-reviews
 
-## Preparing and Installation
+## Getting Started
 We will prepare this project, starting from getting the dataset, installation, and running the code.
 
 ### Preparing Dataset
